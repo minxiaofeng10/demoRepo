@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default Suite">
+  <test name="demo01">
+    <classes>
+      <class name="com.mxf.demoTest.demo01">
+        <methods>
+          <include name="openChrome"/>
+        </methods>
+      </class> <!-- com.mxf.demoTest.demo01 -->
+    </classes>
+  </test> <!-- demo01 -->
+</suite> <!-- Default Suite -->
