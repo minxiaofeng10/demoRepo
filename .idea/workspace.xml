@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b850f21-c48e-4a54-8bc3-95122f8f8218" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/mxf/demoTest/demo01.class" afterPath="$PROJECT_DIR$/target/test-classes/com/mxf/demoTest/demo01.class" />
+    <list default="true" id="6b850f21-c48e-4a54-8bc3-95122f8f8218" name="Default" comment="1">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/mxf/demoTest/demo01.java" afterPath="$PROJECT_DIR$/src/test/java/com/mxf/demoTest/demo01.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,8 +20,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-449">
-              <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+            <state relative-caret-position="1323">
+              <caret line="49" column="31" lean-forward="true" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -41,8 +40,8 @@
       <file leaf-file-name="demo01.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/mxf/demoTest/demo01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="50" column="26" lean-forward="false" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="26" />
+            <state relative-caret-position="403">
+              <caret line="41" column="35" lean-forward="true" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -74,9 +73,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/com/mxf/demoTest/demo01.java" />
         <option value="$PROJECT_DIR$/temp-testng-customsuite.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mxf/demoTest/demo01.java" />
       </list>
     </option>
   </component>
@@ -786,7 +785,7 @@
       <workItem from="1550745735571" duration="793000" />
       <workItem from="1550748670407" duration="7573000" />
       <workItem from="1550840663924" duration="901000" />
-      <workItem from="1550895252307" duration="4942000" />
+      <workItem from="1550895252307" duration="5631000" />
     </task>
     <task id="LOCAL-00001" summary="添加运行testNg的xml配置">
       <created>1550900227856</created>
@@ -816,7 +815,14 @@
       <option name="project" value="LOCAL" />
       <updated>1550901331151</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="1">
+      <created>1550904388000</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1550904388000</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -852,7 +858,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30146000" />
+    <option name="totallyTimeSpent" value="30835000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1056" extended-state="0" />
@@ -897,14 +903,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加运行testNg的xml配置" />
     <MESSAGE value="在家里添加jenkins的代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="在家里添加jenkins的代码" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/mxf/demoTest/demo01.java</url>
-          <line>114</line>
+          <line>115</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
@@ -1208,14 +1215,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/mxf/demoTest/demo01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="50" column="26" lean-forward="false" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/temp-testng-customsuite.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -1224,10 +1223,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mxf/demoTest/demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="41" column="35" lean-forward="true" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-449">
-          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        <state relative-caret-position="1323">
+          <caret line="49" column="31" lean-forward="true" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
           <folding />
         </state>
       </provider>
