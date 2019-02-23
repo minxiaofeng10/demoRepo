@@ -6,6 +6,7 @@
       <class name="com.mxf.demoTest.demo01">
         <methods>
           <include name="openChrome"/>
+          <include name="iframeTest"/>
         </methods>
       </class> <!-- com.mxf.demoTest.demo01 -->
     </classes>
