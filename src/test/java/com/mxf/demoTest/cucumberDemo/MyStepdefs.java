@@ -1,5 +1,6 @@
-package com.mxf.demoTest;
+package com.mxf.demoTest.cucumberDemo;
 
+import com.mxf.demoTest.demo01;
 import cucumber.api.java.zh_cn.并且;
 import cucumber.api.java.zh_cn.当;
 import cucumber.api.java.zh_cn.那么;
