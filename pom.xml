@@ -28,7 +28,8 @@
                 <version>3.0.0-M3</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>./temp-testng-customsuite.xml</suiteXmlFile>
+                        <!--<suiteXmlFile>./temp-testng-customsuite.xml</suiteXmlFile>-->
+                        <suiteXmlFile>./cucumber_jenkins.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
